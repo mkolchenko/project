@@ -27,7 +27,9 @@ namespace mylibrary
                     i++;
                 }
             }
-
+            /// <summary>
+            /// Шифратор
+            /// </summary>
             byte[] bt = Encoding.UTF8.GetBytes(paddingstring);
             if (bt.Length % 16 != 0)
             {

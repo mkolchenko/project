@@ -25,3 +25,6 @@ D:\Флешка(KOLCHENKO)\Study\МГТУ\8 сем\Командная разра
 D:\Флешка(KOLCHENKO)\Study\МГТУ\8 сем\Командная разработка ПО\mylibrary-master\mylibrary\obj\x86\Debug\mylibrary.csproj.GenerateResource.Cache
 D:\Флешка(KOLCHENKO)\Study\МГТУ\8 сем\Командная разработка ПО\mylibrary-master\mylibrary\bin\Debug\mylibrary.exe
 D:\Флешка(KOLCHENKO)\Study\МГТУ\8 сем\Командная разработка ПО\mylibrary-master\mylibrary\bin\Debug\mylibrary.pdb
+C:\Users\Мария\project\mylibrary\bin\Debug\mylibrary.exe.config
+C:\Users\Мария\project\mylibrary\obj\x86\Debug\mylibrary.exe
+C:\Users\Мария\project\mylibrary\obj\x86\Debug\mylibrary.pdb
